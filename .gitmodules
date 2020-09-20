@@ -1,0 +1,9 @@
+[submodule "jmo-arch-eureka"]
+	path = jmo-arch-eureka
+	url = https://github.com/JMOrder/jmo-arch-eureka
+[submodule "jmo-arch-hystrix-turbine"]
+	path = jmo-arch-hystrix-turbine
+	url = https://github.com/JMOrder/jmo-arch-hystrix-turbine
+[submodule "jmo-arch-zuul"]
+	path = jmo-arch-zuul
+	url = https://github.com/JMOrder/jmo-arch-zuul
